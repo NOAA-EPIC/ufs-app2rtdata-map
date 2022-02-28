@@ -22,7 +22,7 @@ __Capabilities:__
 
 This script will be able to perform the following actions:
 
-- Provide a map/dictionary/table of the most recent UFS Application to their corresponding UFS Regression Test Data Files.
+- Provides a map of the UFS application to their corresponding UFS Regression Test data files.
 
 __Future Capabilities:__
 

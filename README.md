@@ -3,7 +3,7 @@ Mapping UFS Application to UFS Regression Test Data Files
 </h1>
 
 <p align="center">
-    <img src="images/header.png" width="600" height="300">
+    <img src="images/header.png" width="500" height="200">
 </p>
 
 <h5 align="center">

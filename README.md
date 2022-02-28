@@ -52,7 +52,7 @@ __Future Capabilities:__
 # What's Included
 Within the download, you will find the following directories and files:
 
-* UFS App Mapping Tool"
+* UFS App Mapping Tool:
     >
 * List of Dependencies: 
     > 

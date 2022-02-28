@@ -1,5 +1,3 @@
-# ufs-app2rtdatafiles-map
-
 <h1 align="center">
 Mapping UFS Application to UFS Regression Test Data Files
 </h1>

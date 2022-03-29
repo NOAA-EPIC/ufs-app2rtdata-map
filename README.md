@@ -1,5 +1,5 @@
 <h1 align="center">
-Mapping UFS Application to UFS Regression Test Data Files
+Mapping UFS Applications to UFS-WM Regression Test Dataset Files
 </h1>
 
 <p align="center">
@@ -51,11 +51,14 @@ __Future Capabilities:__
 
 # What's Included
 Within the download, you will find the following directories and files:
+    >
+    >
+    >
 
 * UFS App Mapping Tool:
     >
 * List of Dependencies: 
-    > 
+    > ##### .env
 
 # Documentation
 

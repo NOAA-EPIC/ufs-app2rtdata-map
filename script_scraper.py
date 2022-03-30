@@ -660,7 +660,7 @@ class ScriptScraper():
         appsphys2test_df = appsphys2test_df.drop(['App-to-Phys'], axis=1)
 
         # Save table as a pickle file.      
-        self.save2pickle(appsphys2test_df, './ufs_app2files_map/ufs_app2test2data_df')
+        self.save2pickle(appsphys2test_df, './ufs_repo_mapped_data/rt_appsphys2test_df')
 
         return appsphys2test_df
 

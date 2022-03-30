@@ -4,9 +4,9 @@ Mapping UFS Applications to UFS-WM Regression Test Dataset Files
 
 <p align="center">
     <img src="images/header.png" width="500" height="200">
-    <img src="images/header2.png" width="800" height="200">
     <img src="images/header3.png" width="800" height="200">
     <img src="images/header4.png" width="800" height="200">
+    <img src="images/header2.png" width="800" height="200">
 </p>
 
 <h5 align="center">

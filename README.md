@@ -60,10 +60,11 @@ This tool can be used as a skeleton framework for querying information regarding
 * Python 3.9
 
 # Dataset
-* N/A
+* ufs_baseline&input_dataframes/baseline_df.pkl (Map of UFS baseline data to UFS Component)
+* ufs_baseline&input_dataframes/input_df.pkl  (Map of UFS input data to UFS Component)
 
 # Quick Start
-* For demonstration purposes, refer to 
+* For demonstration purposes, refer to 'categorizing-input-data-by-test-scripts-demo.ipynb' & 'map-appbuild2baseline-scripts-demo.ipynb'
 
 # Environment Setup:
 Install miniconda on your machine. Note: Miniconda is a smaller version of Anaconda that only includes conda along with a small set of necessary and useful packages. With Miniconda, you can install only what you need, without all the extra packages that Anaconda comes packaged with:
@@ -140,16 +141,25 @@ conda env export > [ENVIRONMENT FILENAME].yml
 
 # What's Included
 Within the download, you will find the following directories and files:
-    >
-    >
-    >
+    > app2bl_mapper.py
+    > script_scraper.py
+    > categorizing-input-data-by-test-scripts-demo.ipynb
+    > map-appbuild2baseline-scripts-demo.ipynb
+    > data_scraper_env.yml
+    > Latest_UFSApp2BaselineMap_20220329.xlsx (ufs-app2rtdata-map)
+        * Output from mapping tool: Generated UFS App-to-Physics Suite build to baseline data files map.
+    > Latest_UFSComponent2InputMap_20211210.xlsx (ufs-conp2files-map)
+        * Output from mapping tool: Generated UFS Component-to-UFS data files map. Also, maps the configuration files and test parameters required for each unique UFS regression test.
 
 * UFS App Mapping Tool:
-    >
+    > app2bl_mapper.py
+        * Demo: map-appbuild2baseline-scripts-demo.ipynb
+    > categorizing-input-data-by-test-scripts-demo.ipynb
+    
 * List of Dependencies: 
-    > ##### .env
+    > data_scraper_env.yml
 
 # Documentation
 
 # References
-
+N/A

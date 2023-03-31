@@ -159,23 +159,23 @@ To create a .yml file, execute the following commands:
 
 # What's Included
 Within the download, you will find the following directories and files:
-    > app2bl_mapper.py
-    > script_scraper.py
-    > categorizing-input-data-by-test-scripts-demo.ipynb
-    > map-appbuild2baseline-scripts-demo.ipynb
-    > data_scraper_env.yml
-    > Latest_UFSApp2BaselineMap_20220329.xlsx (ufs-app2rtdata-map)
+    * app2bl_mapper.py
+    * script_scraper.py
+    * categorizing-input-data-by-test-scripts-demo.ipynb
+    * map-appbuild2baseline-scripts-demo.ipynb
+    * data_scraper_env.yml
+    * Latest_UFSApp2BaselineMap_20220329.xlsx (ufs-app2rtdata-map)
         * Output from mapping tool: Generated UFS App-to-Physics Suite build to baseline data files map.
-    > Latest_UFSComponent2InputMap_20211210.xlsx (ufs-conp2files-map)
+    * Latest_UFSComponent2InputMap_20211210.xlsx (ufs-conp2files-map)
         * Output from mapping tool: Generated UFS Component-to-UFS data files map. Also, maps the configuration files and test parameters required for each unique UFS regression test.
 
 * UFS App Mapping Tool:
-    > app2bl_mapper.py
+    * app2bl_mapper.py
         * Demo: map-appbuild2baseline-scripts-demo.ipynb
-    > categorizing-input-data-by-test-scripts-demo.ipynb
+    * categorizing-input-data-by-test-scripts-demo.ipynb
     
 * List of Dependencies: 
-    > data_scraper_env.yml
+    * data_scraper_env.yml
 
 # Documentation
 

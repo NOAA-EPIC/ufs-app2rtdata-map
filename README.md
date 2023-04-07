@@ -46,9 +46,9 @@ __Future Capabilities:__
 This tool can be used as a skeleton framework for querying information regarding the data files as they pertain to a unique UFS Weather Model Application-to-Physics Suite build &/or Regression Test.
 
 # Prerequisites
-* [![Version badge](https://img.shields.io/badge/Python-3.9-blue.svg)](https://shields.io/)
 * Setting up conda environment w/in RDHPCS.
     * Refer to [Environment Setup](#Environment-Setup)
+* [![Version badge](https://img.shields.io/badge/Python-3.9-blue.svg)](https://shields.io/)
 
 # Dataset
 * ufs_baseline&input_dataframes/baseline_df.pkl (Map of UFS baseline data to UFS Component)

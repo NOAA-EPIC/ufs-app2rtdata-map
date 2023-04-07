@@ -144,10 +144,6 @@ To create a .yml file, execute the following commands:
 
     * conda env export > [ENVIRONMENT FILENAME].yml
 
-# Status
-[![Version badge](https://img.shields.io/badge/Python-3.9-blue.svg)](https://shields.io/)
-[![Build badge](https://img.shields.io/badge/Build--gray.svg)](https://shields.io/)
-
 # What's Included
 Within the download, you will find the following directories and files:
     * app2bl_mapper.py
